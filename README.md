@@ -80,16 +80,7 @@ Track, split, and settle your group expenses easily — with AI-powered fairness
 - ⚡ **Realtime sync** using Firebase or WebSockets  
 - 🔔 **Push notifications** for new expenses or settlements  
 
----
 
-## ⚙️ Tech Stack (Suggested)
-
-- **Frontend:** React / Flutter  
-- **Backend:** Node.js + Express / Firebase  
-- **Database:** Firestore  
-- **Storage:** Firebase Storage / AWS S3  
-
----
 
 ## 🚀 Getting Started (For Developers)
 
